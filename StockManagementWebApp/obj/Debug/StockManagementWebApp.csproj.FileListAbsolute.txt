@@ -1,0 +1,6 @@
+F:\Visual Studio\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll.config
+F:\Visual Studio\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll
+F:\Visual Studio\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.pdb
+F:\Visual Studio\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.csprojResolveAssemblyReference.cache
+F:\Visual Studio\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.dll
+F:\Visual Studio\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.pdb
